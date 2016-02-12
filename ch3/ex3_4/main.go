@@ -1,4 +1,5 @@
-// Surface computes an SVG rendering of a 3-D surface function.
+// Exercise 3.4: Follow ing the approach of the Lissajous example in Section 1.7, construc t a web s er ver t hat computes sur faces and wr ites SVG dat a to t he client. The s er ver must s et t he Con- tent-Type header like this:
+
 package main
 
 import (
